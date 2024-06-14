@@ -1,16 +1,7 @@
-# practice
+# Pratice Flutter 
 
-A new Flutter project.
+## How to learn
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Must Have 코드팩토리의 플러터 프로그래밍](https://product.kyobobook.co.kr/detail/S000200473539)  
+- [Codelabs](https://codelabs.developers.google.com/?product=flutter). 
+   - [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first) is in [`namer`](namer)
